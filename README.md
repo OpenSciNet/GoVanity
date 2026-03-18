@@ -4,7 +4,7 @@
 
 **GoVanity** is a high-performance, multi-threaded vanity address generator designed for decentralized ecosystems. Built by **OpenSciNet**, it allows users to mine custom-patterned addresses for Bitcoin (SegWit & Taproot), Nostr (NIP-19), and Cosmos-based chains with cryptographic precision.
 
-> "In mathematics we trust; in entropy we verify."
+> In mathematics we trust; in entropy we verify
 
 ---
 
@@ -26,7 +26,7 @@
 Ensure you have [Go](https://go.dev/) installed (v1.21+ recommended).
 
 ```bash
-git clone [https://github.com/OpenSciNet/GoVanity](https://github.com/OpenSciNet/GoVanity)
+git clone https://github.com/OpenSciNet/GoVanity
 cd govanity
 go build -o govanity .
 ````
