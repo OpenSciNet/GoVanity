@@ -1,0 +1,8 @@
+*.key
+*.gpg
+*.priv
+*.pem
+*.asc
+gpg_backup/
+govanity
+dist/
