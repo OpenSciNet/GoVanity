@@ -1,0 +1,37 @@
+Business Source License 1.1
+
+Licensor: OpenSciNen
+Licensed Work: The “Software” is the GoVanity Vanity Miner project, excluding the contents of the govanity/bech32 directory, which is licensed separately under the MIT License for protocol compatibility.
+Change Date: December 31, 2030
+Change License: MIT License
+
+---
+
+Additional Use Grant
+
+Notwithstanding the Use Limitation below, you are hereby granted permission to download, compile, and execute the Software for the express purpose of operating a compute node within the official OpenSciNet network. This includes the right to earn, hold, and transfer official network rewards (“$TBD tokens”) as defined by the protocol’s incentive mechanisms.
+
+This Additional Use Grant is an exception to the Use Limitation and applies until the Change Date.
+
+---
+
+Use Limitation
+
+You may use the Software for any purpose except that you may not:
+
+1. Provide the Software, or any modified version of it, as a standalone commercial scientific compute service that competes with OpenSciNet.  
+2. Create, market, or operate a fork of the Software to launch a competing decentralized network or a competing digital asset (token) prior to the Change Date.
+
+Any use not expressly permitted by this License requires a separate commercial license from the Licensor.
+
+---
+
+Terms of the Business Source License 1.1
+
+The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and display the Software, subject to the terms and conditions of this License.
+
+This License is not an Open Source license as defined by the Open Source Initiative. However, on the Change Date, the Change License will automatically apply to the Software.
+
+You must include this License file with all copies of the Software and derivative works.
+
+To the extent permitted by applicable law, the Software is provided “AS IS,” without warranty of any kind. The Licensor shall not be liable for any damages arising out of the use of the Software.

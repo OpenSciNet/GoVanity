@@ -1,0 +1,22 @@
+GoVanity Vanity Miner
+Copyright (c) 2026 OpenSciNet
+
+This product includes software developed by OpenSciNet (https://github.com/OpenSciNet).
+
+--------------------------------------------------------------------------------
+License Summary
+--------------------------------------------------------------------------------
+
+1. GoVanity Core: 
+   Licensed under the Business Source License 1.1 (BSL). 
+   This license transitions to the MIT License on December 31, 2030.
+
+2. bech32 Sub-package (located in /bech32):
+   Licensed under the MIT License.
+
+--------------------------------------------------------------------------------
+Third-Party Software
+--------------------------------------------------------------------------------
+This project may utilize the following protocols and standards:
+- BIP-0173 / BIP-0350 (Bech32/Bech32m) - MIT License
+- Bitcoin / Nostr / Cosmos SDK Standards
