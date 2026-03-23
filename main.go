@@ -78,8 +78,15 @@ func main() {
 		fmt.Println("👉 Proper usage: govanity [flags] <single_pattern>")
 		return
 	}
-	//	init
 	target := strings.ToLower(flag.Arg(0))
+	//	excluding "1", "b", "i", and "o"
+	if strings.ContainsAny(target, "bio1"){
+		fmt.Printf("❌ Error: Argument contains invalid Bech32 characters (1,b,i,o).\n")
+		fmt.Println("💡 Hint: Use only qpzry9x8gf2tvdw0s3jn54khce6mua7l.")
+		fmt.Println("👉 Proper usage: govanity [flags] <bech32-compatible_pattern>")
+		return
+	}
+	//	init
 	numWorkers := runtime.NumCPU()
 	var found int32
 	var attempts uint64
